@@ -1,0 +1,26 @@
+<svg width="193.000000" height="42.000000" viewBox="0 0 193 42" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_47_dd" x="0.000000" y="0.000000" width="193.000000" height="42.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="3.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_2_43_dd" x="0.000000" y="0.000000" width="193.000000" height="42.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="3.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_2_47_dd)">
+		<mask id="mask_2_47" fill="white">
+			<path id="bullet-bg" d="M16 0L177 0C185.837 0 193 7.16344 193 16L193 26C193 34.8365 185.837 42 177 42L25.8901 42C24.8953 33.0001 17.2651 26 8 26C5.16696 26 2.48679 26.6545 0.102438 27.8205C0.0347633 27.2231 0 26.6156 0 26L0 16C0 7.16344 7.16344 0 16 0Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</mask>
+		<path id="bullet-bg" d="M16 0L177 0C185.837 0 193 7.16344 193 16L193 26C193 34.8365 185.837 42 177 42L25.8901 42C24.8953 33.0001 17.2651 26 8 26C5.16696 26 2.48679 26.6545 0.102438 27.8205C0.0347633 27.2231 0 26.6156 0 26L0 16C0 7.16344 7.16344 0 16 0Z" clip-rule="evenodd" fill="#F4FBFF" fill-opacity="0.700000" fill-rule="evenodd" mask="url(#mask_2_47)"/>
+		<path id="bullet-bg" d="M177 0L16 0C7.16344 0 0 7.16344 0 16L0 26C0 26.2525 0.00584907 26.5037 0.0174194 26.7533C0.0340564 27.1123 0.0625226 27.4681 0.102438 27.8205C0.417585 27.6664 0.737899 27.5212 1.06305 27.3853C3.19795 26.4929 5.54141 26 8 26C17.2651 26 24.8953 33.0001 25.8901 42L177 42C185.837 42 193 34.8365 193 26L193 16C193 7.16344 185.837 0 177 0ZM26.7666 41L177 41Q180.107 41 182.758 39.9017Q185.41 38.8033 187.607 36.6066Q189.803 34.4099 190.902 31.7582Q192 29.1066 192 26L192 16Q192 12.8933 190.902 10.2416Q189.803 7.59003 187.607 5.3934Q185.41 3.19681 182.759 2.09846Q180.107 1 177 1L16 1Q12.8934 1 10.2418 2.09835Q7.5901 3.1967 5.3934 5.3934Q3.19669 7.59012 2.09834 10.2418Q1 12.8934 1 16L1 26Q1 26.1643 1.00351 26.3281Q2.19329 25.8541 3.42494 25.5493Q5.6445 25 8 25Q11.6613 25 14.8492 26.2286Q18.0162 27.4491 20.7159 29.8822Q23.4508 32.347 24.9994 35.4114Q26.304 37.9929 26.7666 41Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="0.300000" fill-rule="evenodd"/>
+	</g>
+</svg>

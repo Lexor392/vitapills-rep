@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vitapills-rep/static/css/main.3dc20340.css",
-    "main.js": "/vitapills-rep/static/js/main.5d9ff9c1.js",
+    "main.css": "/vitapills-rep/static/css/main.1ba5336c.css",
+    "main.js": "/vitapills-rep/static/js/main.40f3478b.js",
     "static/js/453.6a7c5acd.chunk.js": "/vitapills-rep/static/js/453.6a7c5acd.chunk.js",
     "static/media/hero-bg.png": "/vitapills-rep/static/media/hero-bg.8eff74b98b4eae9316d4.png",
     "static/media/bullet-bg-mirror.svg": "/vitapills-rep/static/media/bullet-bg-mirror.66bc6eed6561172b106f.svg",
     "static/media/bullet-bg.svg": "/vitapills-rep/static/media/bullet-bg.3f1b342a74ff9adf46a4.svg",
     "index.html": "/vitapills-rep/index.html",
-    "main.3dc20340.css.map": "/vitapills-rep/static/css/main.3dc20340.css.map",
-    "main.5d9ff9c1.js.map": "/vitapills-rep/static/js/main.5d9ff9c1.js.map",
+    "main.1ba5336c.css.map": "/vitapills-rep/static/css/main.1ba5336c.css.map",
+    "main.40f3478b.js.map": "/vitapills-rep/static/js/main.40f3478b.js.map",
     "453.6a7c5acd.chunk.js.map": "/vitapills-rep/static/js/453.6a7c5acd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dc20340.css",
-    "static/js/main.5d9ff9c1.js"
+    "static/css/main.1ba5336c.css",
+    "static/js/main.40f3478b.js"
   ]
 }

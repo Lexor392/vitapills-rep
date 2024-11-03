@@ -1,0 +1,16 @@
+<svg width="52.200012" height="52.200195" viewBox="0 0 52.2 52.2002" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip293_625">
+			<rect id="search-icon" rx="0.000000" width="22.448076" height="22.448076" transform="translate(14.875937 14.876548)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="cart" rx="25.768501" width="51.537003" height="51.537003" transform="translate(0.331499 0.331499)" fill="#F4FBFF" fill-opacity="1.000000"/>
+	<rect id="search-icon" rx="0.000000" width="22.448076" height="22.448076" transform="translate(14.875937 14.876548)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip293_625)">
+		<path id="Vector" d="M25.1 33.1C20.68 33.1 17.1 29.51 17.1 25.1C17.1 20.68 20.68 17.1 25.1 17.1C29.51 17.1 33.09 20.68 33.09 25.1C33.09 29.51 29.51 33.1 25.1 33.1Z" stroke="#002032" stroke-opacity="1.000000" stroke-width="1.862309" stroke-linejoin="round"/>
+		<path id="Vector" d="M35.09 35.09L30.75 30.75" stroke="#002032" stroke-opacity="1.000000" stroke-width="1.862309" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

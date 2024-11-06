@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vitapills-rep/static/css/main.083277a9.css",
-    "main.js": "/vitapills-rep/static/js/main.e8f0d921.js",
+    "main.css": "/vitapills-rep/static/css/main.eb6d8561.css",
+    "main.js": "/vitapills-rep/static/js/main.6da6dfa0.js",
     "static/js/453.6a7c5acd.chunk.js": "/vitapills-rep/static/js/453.6a7c5acd.chunk.js",
     "static/media/hero-bg.png": "/vitapills-rep/static/media/hero-bg.8eff74b98b4eae9316d4.png",
     "static/media/main-logo-white.svg": "/vitapills-rep/static/media/main-logo-white.c300e8a1b387834119ea.svg",
@@ -11,17 +11,31 @@
     "static/media/slick.eot": "/vitapills-rep/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/bullet-bg.svg": "/vitapills-rep/static/media/bullet-bg.3f1b342a74ff9adf46a4.svg",
     "static/media/slick.ttf": "/vitapills-rep/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram-hover.svg": "/vitapills-rep/static/media/instagram-hover.14a4f4cf30ad3df42284.svg",
+    "static/media/instagram.svg": "/vitapills-rep/static/media/instagram.36757d8164d01143c2c6.svg",
     "static/media/slick.woff": "/vitapills-rep/static/media/slick.295183786cd8a1389865.woff",
     "static/media/cart.svg": "/vitapills-rep/static/media/cart.b2dbadd9b9d1d78f3d82.svg",
+    "static/media/search-btn-white.svg": "/vitapills-rep/static/media/search-btn-white.66125198677d7e264296.svg",
+    "static/media/twitter-hover.svg": "/vitapills-rep/static/media/twitter-hover.f61d4d09fdde10fdcd7a.svg",
+    "static/media/twitter.svg": "/vitapills-rep/static/media/twitter.216c20888f2c29f36d8b.svg",
+    "static/media/instagram-white-hover.svg": "/vitapills-rep/static/media/instagram-white-hover.788af0c83828916e25b4.svg",
+    "static/media/arrow.svg": "/vitapills-rep/static/media/arrow.d170a505a6c4dbd76909.svg",
+    "static/media/facebook.svg": "/vitapills-rep/static/media/facebook.a97235ffce14b6110bbb.svg",
+    "static/media/facebook-hover.svg": "/vitapills-rep/static/media/facebook-hover.5266ba0b5e3b8f67561f.svg",
+    "static/media/twitter-white-hover.svg": "/vitapills-rep/static/media/twitter-white-hover.57378052de0285f790d6.svg",
     "index.html": "/vitapills-rep/index.html",
+    "static/media/search-btn.svg": "/vitapills-rep/static/media/search-btn.bcf2b84679cdc09db899.svg",
+    "static/media/search-btn-hover.svg": "/vitapills-rep/static/media/search-btn-hover.d54b7bc89218193ca454.svg",
+    "static/media/facebook-white-hover.svg": "/vitapills-rep/static/media/facebook-white-hover.e2dedcbfc50fe6fc7a81.svg",
+    "static/media/arrow-hover.svg": "/vitapills-rep/static/media/arrow-hover.9f275f681fe59f7a9680.svg",
     "static/media/open-question-btn.svg": "/vitapills-rep/static/media/open-question-btn.901085aae424b4a70c47.svg",
     "static/media/colse-question-btn.svg": "/vitapills-rep/static/media/colse-question-btn.2feea49f0419810cd125.svg",
-    "main.083277a9.css.map": "/vitapills-rep/static/css/main.083277a9.css.map",
-    "main.e8f0d921.js.map": "/vitapills-rep/static/js/main.e8f0d921.js.map",
+    "main.eb6d8561.css.map": "/vitapills-rep/static/css/main.eb6d8561.css.map",
+    "main.6da6dfa0.js.map": "/vitapills-rep/static/js/main.6da6dfa0.js.map",
     "453.6a7c5acd.chunk.js.map": "/vitapills-rep/static/js/453.6a7c5acd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.083277a9.css",
-    "static/js/main.e8f0d921.js"
+    "static/css/main.eb6d8561.css",
+    "static/js/main.6da6dfa0.js"
   ]
 }

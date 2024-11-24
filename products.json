@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1,
+    "title": "Viagra Generica",
+    "imageUrl": "images/card-images/img.png",
+    "slider": [
+      "images/products/viagra-generica/main-img.png",
+      "images/products/viagra-generica/main-img1.png",
+      "images/products/viagra-generica/main-img2.png",
+      "images/products/viagra-generica/main-img3.png"
+    ],
+    "price": {
+      "from": 400,
+      "to": 108
+    },
+    "options": [
+      {
+        "variant": 10,
+        "markdown": 50,
+        "price": 40
+      },
+      {
+        "variant": 20,
+        "markdown": 65,
+        "price": 52
+      },
+      {
+        "variant": 30,
+        "markdown": 89,
+        "price": 71
+      },
+      {
+        "variant": 50,
+        "markdown": 135,
+        "price": 108
+      }
+    ],
+    "description": {
+      "active_ingredient": "Sildenafil.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": {
+        "de": "",
+        "en": ""
+      },
+      "general_use": {
+        "de": "Sildenafil beeinflusst die Reaktion auf sexuelle Stimulation. Es hilft, die glatten Muskeln mit Stickstoffmonoxid zu entspannen, einer Chemikalie, die normalerweise eine Reaktion auf sexuelle Stimulation verursacht. Diese Entspannung ermöglicht einen erhöhten Blutfluss in bestimmte Bereiche des Penis, was zu einer Erektion führt. Sildenafil wird zur Behandlung von Funktionsstörungen (Impotenz) bei Männern sowie von pulmonaler arterieller Hypertonie verwendet. Sildenafil kann auch für andere Zwecke verwendet werden, die oben nicht aufgeführt sind.",
+        "en": "Sildenafil affects the response to sexual stimulation. It helps to relax smooth muscles with nitric oxide, a chemical that normally causes a response to sexual stimulation. This relaxation allows for increased blood flow to certain areas of the penis, which leads to an erection. Sildenafil is used to treat dysfunction (impotence) in men, as well as pulmonary arterial hypertension. Sildenafil may also be used for other purposes not listed above."
+      },
+      "dosage_and_application_area": {
+        "de": "Die übliche empfohlene Dosis von Viagra beträgt 50 mg, die etwa 0,5 bis 1 Stunde vor dem Geschlechtsverkehr eingenommen werden. Nehmen Sie Viagra nicht öfter als einmal am Tag ein. Fettreiche Nahrungsmittel können den Wirkungseintritt des Medikaments verzögern. Vermeiden Sie den Verzehr von Grapefruit oder das Trinken von Grapefruitsaft, während Sie Sildenafil einnehmen.",
+        "en": "The usual recommended dose of Viagra is 50 mg, taken about 0.5 to 1 hour before sexual intercourse. Do not take Viagra more than once a day. High-fat foods may delay the onset of the drug's effects. Avoid eating grapefruit or drinking grapefruit juice while taking sildenafil."
+      },
+      "precautions": {
+        "de": "Bevor Sie Sildenafil einnehmen, informieren Sie Ihren Arzt oder Apotheker, wenn Sie allergisch darauf reagieren; oder wenn Sie irgendwelche anderen Allergien haben. Ältere Erwachsene können empfindlicher auf die Nebenwirkungen des Medikaments reagieren.",
+        "en": "Before you start taking sildenafil, tell your doctor or pharmacist if you are allergic to it; or if you have any other allergies. Older adults may be more sensitive to the side effects of the drug."
+      },
+      "contraindications": {
+        "de": "Viagra ist nicht für Patienten angezeigt, die andere Medikamente gegen Impotenz einnehmen oder Medikamente mit Nitraten für Brustschmerzen oder Herzprobleme verwenden. Dieses Medikament sollte nicht von Frauen und Kindern oder von Patienten mit bekannter Überempfindlichkeit gegenüber einem der Bestandteile der Tablette eingenommen werden.",
+        "en": "Viagra is not indicated for patients who are taking other medications for impotence or who use medications containing nitrates for chest pain or heart problems. This medication should not be taken by women and children, or by patients with a known hypersensitivity to any component of the tablet."
+      },
+      "possible_side_effects": {
+        "de": "Die häufigsten Nebenwirkungen sind Kopfschmerzen, Gesichtsrötung, Magenverstimmung, verstopfte oder laufende Nase, Verwirrung, Übelkeit oder Durchfall. Eine schwere allergische Reaktion auf dieses Medikament kann sehr selten auftreten. In diesem Fall benötigen Sie sofort medizinische Hilfe. Viele Menschen verwenden dieses Medikament ohne ernsthafte Nebenwirkungen. Diese Liste ist möglicherweise nicht vollständig. Wenden Sie sich an Ihren Arzt oder Apotheker.",
+        "en": "The most common side effects are headache, flushing, upset stomach, stuffy or runny nose, confusion, nausea, or diarrhea. A serious allergic reaction to this medicine may very rarely occur, in which case you will need immediate medical attention. Many people use this medicine without serious side effects. This list may not be complete. Contact your doctor or pharmacist."
+      },
+      "interactions": {
+        "de": "Dieses Medikament sollte nicht zusammen mit Nitraten und sogenannten Freizeitdrogen (Poppers) verwendet werden, die Amylnitrit oder Butylnitrit enthalten; sowie mit Alphablockern, anderen Medikamenten gegen Impotenz, bestimmten Medikamenten gegen Bluthochdruck usw. Für weitere Details wenden Sie sich an Ihren Arzt oder Apotheker.",
+        "en": "This medicine should not be used with nitrates and recreational drugs called poppers, which contain amyl or butyl nitrite; as well as alpha-blocking drugs; other impotence drugs; certain high blood pressure drugs, etc. For more details, consult your doctor or pharmacist."
+      },
+      "missed_dose": {
+        "de": "Sie müssen Viagra nur bei Bedarf einnehmen, es ist kein fester Zeitplan erforderlich.",
+        "en": "You only need to take Viagra when needed, and there is no schedule required."
+      },
+      "overdose": {
+        "de": "Wenn Sie glauben, zu viel eingenommen zu haben, rufen Sie sofort Ihren Arzt an! Symptome einer Überdosierung können Brustschmerzen, Übelkeit, unregelmäßiger Herzschlag, Ohnmacht umfassen.",
+        "en": "If you think you have taken too much medicine, call your doctor immediately! Symptoms of overdose may include: chest pain, nausea, irregular heartbeat, fainting."
+      },
+      "storage": {
+        "de": "Bei Raumtemperatur 20-25 Grad Celsius (68-77 Grad Fahrenheit) lagern. Bewahren Sie das Medikament nicht im Badezimmer auf. Außerhalb der Reichweite von Kindern und Haustieren aufbewahren! Vor Feuchtigkeit und Tageslicht schützen!",
+        "en": "Store at room temperature 68-77 F (20-25 degrees Celsius). Do not store the medicine in the bathroom. Keep out of reach of children and pets! Protect from moisture and daylight!"
+      },
+      "responsibility": {
+        "de": "Wir bieten nur allgemeine Informationen über das Medikament, die nicht alle Anweisungen, mögliche Wechselwirkungen und Vorsichtsmaßnahmen abdecken. Die auf der Website bereitgestellten Informationen können nicht zur Selbstmedikation oder Selbstdiagnose verwendet werden. Alle Anweisungen für einen bestimmten Patienten sollten mit Ihrem Gesundheitsberater oder Arzt abgesprochen werden, der für den Fall verantwortlich ist. Wir lehnen jegliche Haftung für Schäden ab, die sich aus unsachgemäßer Verwendung der Informationen auf dieser Website ergeben können. Wir sind nicht verantwortlich für direkte, indirekte, spezielle oder andere Folgeschäden jeglicher Art sowie für die Folgen Ihrer möglichen Selbstmedikation.",
+        "en": "We provide only general information about the drug, which does not cover all instructions, possible interactions and precautions. The information provided on the site cannot be used for self-medication or self-diagnosis. All instructions for a specific patient should be agreed with your health care consultant or doctor responsible for the case. We must disclaim any liability for damage that may arise from improper use of the information on this site. We are not responsible for direct, indirect, special or other consequential damage of any kind, as well as for the consequences of your possible self-medication."
+      },
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      }
+    },
+    "additionalDescription": {
+      "de": "100 mg Sildenafil Citrate",
+      "en": "100 mg Sildenafil Citrate"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cialis Generic",
+    "imageUrl": "images/card-images/img-1.png",
+    "slider": [
+      "images/products/сialis-generic/main-img.png",
+      "images/products/сialis-generic/main-img1.png",
+      "images/products/сialis-generic/main-img2.png",
+      "images/products/сialis-generic/main-img3.png"
+    ],
+    "price": {
+      "from": 60,
+      "to": 115
+    },
+    "options": [
+      {
+        "variant": 10,
+        "markdown": "",
+        "price": 60
+      },
+      {
+        "variant": 20,
+        "markdown": "",
+        "price": 79
+      },
+      {
+        "variant": 30,
+        "markdown": "",
+        "price": 115
+      }
+    ],
+    "description": {
+      "active_ingredient": "Tadalafil.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": {
+        "de": "",
+        "en": ""
+      },
+      "general_use": {
+        "de": "Cialis ist ein starker, exklusiver Inhibitor der Phosphodiesterase Typ 5 (PDE 5), spezifisch für zyklisches Guanosinmonophosphat (cGMP). Bei sexueller Erregung führt die lokale Freisetzung von Stickstoffmonoxid und die Hemmung der PDE 5 durch Cialis zu einem Anstieg der cGMP-Spiegel in den Schwellkörpern des Penis. Dies führt zur Entspannung der arteriellen glatten Muskulatur und zur Durchblutung des Penisgewebes, was eine Erektion verursacht. Cialis wirkt nicht bei fehlender sexueller Erregung. Cialis verbessert die Erektion und ermöglicht einen erfolgreichen Geschlechtsverkehr. Das Medikament wirkt bis zu 36 Stunden. Bei Vorhandensein sexueller Erregung tritt die Wirkung bereits nach 16 Minuten nach Einnahme des Medikaments ein.",
+        "en": "Cialis is a powerful, exclusive inhibitor of phosphodiesterase type 5 (PDE 5), specific for cyclic guanosine monophosphate (cGMP). When sexual arousal causes local release of nitric oxide, inhibition of PDE 5 by Cialis leads to increase of cGMP levels in penile cavernous bodies. It results in relaxation of arterial smooth muscles and blood flow to penile tissues, which causes erection. Cialis has no effect when sexual arousal is absent. Cialis improves erection and allows to achieve successful sexual intercourse. The medicine works for 36 hours. When sexual arousal is present, the effect appears even after 16 minutes after taking the medicine."
+      },
+      "dosage_and_application_area": {
+        "de": "Die empfohlene Dosis von Cialis beträgt 20 mg, die Sie mindestens 16 Minuten vor dem Geschlechtsverkehr einnehmen sollten. Die Wirkung hält bis zu 36 Stunden an. Nehmen Sie Cialis einmal täglich ein und überschreiten Sie nicht die empfohlene Dosis.",
+        "en": "The recommended dose of Cialis is 20mg, which you should take at least 16 minutes before sexual intercourse. The effect lasts up to 36 hours. Take Cialis once a day and do not exceed the recommended dose."
+      },
+      "precautions": {
+        "de": "Es ist vorzuziehen, Cialis nicht zusammen mit Grapefruitsaft, alkoholischen Getränken und Tabakprodukten zu verwenden. Wenn Sie rauchen und Cialis einnehmen, kann dies zu NAION führen (plötzlicher Sehverlust und Sehstörungen). Informieren Sie Ihren Arzt vor der Einnahme von Cialis, wenn Sie eine abnormale Penisbildung oder Geburtsfehler des Penis, einschließlich gekrümmten Penis, oder eine koronare Herzkrankheit, Arrhythmie, Angina, Herzinfarkt oder Herzinsuffizienz, niedrigen oder hohen Blutdruck, Blutungen, Magengeschwüre, Diabetes, Hyperlipidämie (Überschuss an Lipiden im Blut), Sichelzellenanämie in der Vorgeschichte haben. Seien Sie vorsichtig, wenn Sie an schweren Leber-, Nieren- und Herzerkrankungen leiden.",
+        "en": "It is preferable not to use Cialis with grapefruit juice, alcoholic beverages, tobacco products. If you smoke tobacco and take Cialis, it can lead to the condition called NAION (sudden loss of vision and visual disturbances). Before taking Cialis, tell your doctor if you have abnormal penis or birth defects of the penis, including curved penis, or coronary artery disease, arrhythmia, angina, heart attack or heart failure, low or high blood pressure, bleeding, stomach ulcers, diabetes, hyperlipidemia (excess of lipids in the blood), sickle cell anemia in history. Be careful if you have severe liver, kidney and heart disease."
+      },
+      "contraindications": {
+        "de": "Cialis ist nicht für Patienten angezeigt, die irgendeine Form von organischem Nitrat verwenden, sei es regelmäßig und/oder intermittierend, da dies zu einem blutdrucksenkenden Effekt führen kann.",
+        "en": "Cialis is not indicated for patients who use any form of organic nitrate, either regularly and/or intermittently, as it may lead to the hypotensive effect."
+      },
+      "possible_side_effects": {
+        "de": "Die wichtigsten bekannten Nebenwirkungen sind: Gesichtsrötung, Kopfschmerzen, Magenreizungen, Durchfall, grippeähnliche Symptome und Übelkeit. Selten können niedriger Blutdruck, Sehstörungen und Farbsehveränderungen sowie anormale Ejakulation auftreten. Eine verlängerte Ejakulation oder Priapismus (schmerzhafte Erektion, die länger als 6 Stunden anhält) ist ebenfalls möglich. Wenn Ihre Erektion länger als 4 Stunden anhält, suchen Sie sofort einen Arzt auf. Eine anhaltende Erektion muss sofort behandelt werden, da andernfalls Gewebeschäden und Potenzverlust drohen. Es wurden auch Berichte über eine Verschlechterung von Herzproblemen bei Patienten mit einer Vorgeschichte von Herzerkrankungen gegeben, die Cialis verwendet haben.",
+        "en": "The most important known side effects are: flushing, headache, stomach irritability, diarrhea, false flu symptoms and nausea. Rarely, low blood pressure, visual disturbances and changes in color vision and abnormal ejaculation may occur. Prolonged ejaculation or priapism (painful erection lasting more than 6 hours) is also possible. If your erection lasts longer than 4 hours, seek immediate medical attention. A persistent erection must be treated immediately, otherwise tissue damage and loss of potency may result. There have also been reports of worsening of heart problems in patients with a history of heart disease who have used Cialis."
+      },
+      "interactions": {
+        "de": "Die gleichzeitige Einnahme von Medikamenten, die organische Nitrate enthalten, kann eine schwere Hypotonie verursachen, die in einigen Fällen gefährlich ist. Vermeiden Sie die Einnahme von Cialis zusammen mit Medikamenten wie Erythrityltetranitrat, Isosorbiddinitrat, Isosorbidmononitrat, Nitroglyzerin, Pentaerythritoltetranitrat. Die Wirkung und Toxizität von Cialis wird durch Erythromycin, Ketoconazol (Nizoral), Itraconazol (Sporanox), Indinavir (Crixivan) und Ritonavir (Norvir) verstärkt. Informieren Sie Ihren Arzt, wenn Sie Atazanavir, Bunazosin, Clarithromycin, Doxazosin, Erythromycin, Indinavir, Itraconazol, Ketoconazol, Moxisylyte, Nefazodon, Nelfinavir, Phenoxybenzamin, Phentolamin, Prazosin, Saquinavir, Telithromycin, Terazosin, Trimazosin, Urapidil einnehmen, da Ihre Cialis-Dosis möglicherweise angepasst werden muss.",
+        "en": "The simultaneous use of medications containing organic nitrates can cause severe hypotension, which in some cases is dangerous. Avoid taking Cialis with such medications as erythrityl tetranitrate, isosorbide dinitrate, isosorbide mononitrate, nitroglycerin, pentaerythritol tetranitrate. The effect and toxicity of Cialis is increased by erythromycin, ketoconazole (Nizoral), itraconazole (Sporanox), indinavir (Crixivan) and ritonavir (Norvir). Tell your doctor if you are taking Atazanavir, Bunazosin, Clarithromycin, Doxazosin, Erythromycin, Indinavir, Itraconazole, Ketoconazole, Moxisylyte, Nefazodone, Nelfinavir, Phenoxybenzamine, Phentolamine, Prazosin, Saquinavir, Telithromycin, Terazosin, Trimazosin, Urapidil, because your Cialis dose may require adjustment."
+      },
+      "missed_dose": {
+        "de": "Cialis wird zur Behandlung von Impotenz (erektile Dysfunktion) verwendet und wird nur bei Bedarf eingenommen.",
+        "en": "Cialis is used to treat impotence (erectile dysfunction) and is taken only when needed."
+      },
+      "overdose": {
+        "de": "Wenn Sie glauben, zu viel eingenommen zu haben, kontaktieren Sie sofort Ihren Arzt! Symptome einer Überdosierung können Brustschmerzen, Übelkeit, unregelmäßiger Herzschlag, Ohnmacht sein.",
+        "en": "If you think you have taken too much medicine, contact your doctor immediately! Symptoms of overdose may include: chest pain, nausea, irregular heartbeat, fainting."
+      },
+      "storage": {
+        "de": "Bei Raumtemperatur in einem festen Behälter, fern von Feuchtigkeit und Sonnenlicht aufbewahren. Außerhalb der Reichweite von Kindern und Haustieren aufbewahren!",
+        "en": "Store at room temperature in a solid container, away from moisture and sunlight. Keep out of reach of children and pets!"
+      },
+      "responsibility": {
+        "de": "Wir bieten nur allgemeine Informationen über Medikamente, die nicht alle Anweisungen, mögliche Wechselwirkungen oder Vorsichtsmaßnahmen abdecken. Die auf dieser Website präsentierten Informationen können nicht zur Selbstbehandlung oder Selbstdiagnose verwendet werden. Alle Anweisungen für einen bestimmten Patienten sollten mit Ihrem Gesundheitsberater oder dem für den Fall zuständigen Arzt vereinbart werden. Wir lehnen jegliche Haftung für Schäden ab, die sich aus unsachgemäßer Nutzung der Informationen auf dieser Website ergeben könnten. Wir sind nicht verantwortlich für direkte, indirekte, spezielle oder andere indirekte Schäden jeglicher Art sowie für die Folgen Ihrer möglichen Selbstbehandlung.",
+        "en": "We provide only general information about medicines which does not cover all directions, possible drug interactions or precautions. The information presented on this site cannot be used for self-treatment or self-diagnosis. All instructions for a specific patient should be agreed with your health care advisor or doctor responsible for the case. We must disclaim any liability for damages that may arise from improper use of the information on this site. We are not responsible for direct, indirect, special or other indirect damages of any kind, as well as for consequences of your possible self-treatment."
+      },
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      }
+    },
+    "additionalDescription": {
+      "de": "20 mg Tadalafil.",
+      "en": "20 mg Tadalafil."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Testpaket Generic",
+    "imageUrl": "images/card-images/img-2.png",
+    "slider": [
+      "images/products/testpaket-generic/main-img.png",
+      "images/products/testpaket-generic/main-img1.png",
+      "images/products/testpaket-generic/main-img2.png"
+    ],
+    "price": {
+      "from": 49,
+      "to": 89
+    },
+    "options": [
+      {
+        "variant": "5+5+5",
+        "markdown": "",
+        "price": 49
+      },
+      {
+        "variant": "10+10+10",
+        "markdown": "",
+        "price": 89
+      }
+    ],
+    "description": {
+      "active_ingredient": "",
+      "country_of_manufacture": "",
+      "product_description": {
+        "de": "Wenn Sie generische Testpakete kaufen, können Sie jedes Medikament ausprobieren, vergleichen und das am besten geeignete auswählen. Generische Testpakete sind eine großartige Möglichkeit, nicht nur die Potenz zu verbessern, sondern auch drei hochwertige Potenzmittel zu vergleichen. Kaufen Sie generische Testpakete und vergessen Sie Potenzprobleme.",
+        "en": "If you buy generic test packages, you can try each drug, compare and choose the most suitable one. Generic test packages are a great opportunity not only to improve potency, but to compare three high-quality potency drugs. Buy generic test packages and forget about potency problems."
+      },
+      "general_use": "",
+      "dosage_and_application_area": "",
+      "precautions": "",
+      "contraindications": "",
+      "possible_side_effects": "",
+      "interactions": "",
+      "missed_dose": "",
+      "overdose": "",
+      "storage": "",
+      "responsibility": "",
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      }
+    },
+    "additionalDescription": {
+      "de": "Dieses Testpaket enthält Generika der Markenmedikamente Viagra, Cialis und Levitra.",
+      "en": "This trial package contains generics of brand name drugs Viagra, Cialis and Levitra."
+    }
+  },
+  {
+    "id": 4,
+    "title": "Levitra Generica",
+    "imageUrl": "images/card-images/img-3.png",
+    "slider": [
+      "images/products/levitra-generica/main-img.png",
+      "images/products/levitra-generica/main-img1.png",
+      "images/products/levitra-generica/main-img2.png",
+      "images/products/levitra-generica/main-img3.png"
+    ],
+    "price": {
+      "from": 40,
+      "to": 91
+    },
+    "options": [
+      {
+        "variant": 10,
+        "markdown": 50,
+        "price": 40
+      },
+      {
+        "variant": 20,
+        "markdown": 65,
+        "price": 51
+      },
+      {
+        "variant": 40,
+        "markdown": 120,
+        "price": 91
+      }
+    ],
+    "description": {
+      "active_ingredient": "Vardenafil.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": "",
+      "general_use": {
+        "de": "Levitra ist ein sehr starkes Medikament zur Behandlung der erektilen Dysfunktion. Die sexuelle Stimulation bewirkt die Produktion und Freisetzung von Stickstoffmonoxid aus den Nervenenden des Corpus Cavernosum des Penis, wodurch das Enzym Guanylatcyclase aktiviert wird. Guanylatcyclase ist für die Produktion von cyclischem Guanosinmonophosphat (cGMP) verantwortlich. Das cGMP bewirkt die Erweiterung und Entspannung der Blutgefäße, die Blut zum Penis transportieren. Levitra verhindert, dass das Enzym Phosphodiesterase-5 cGMP zerstört, und hilft somit, den Blutfluss zum Penis zu unterstützen.",
+        "en": "Levitra is an extra-strong medicine used to treat erectile dysfunction. Sexual stimulation causes the production and release of nitric oxide from the nerve endings of the corpus cavernosum of the penis, which thereby activates the enzyme guanylate cyclase. Guanylate cyclase is responsible for the production of cyclic guanosine monophosphate (cGMP). The cGMP causes the dilation and relaxation of the blood vessels that carry blood to the penis. Levitra prevents the enzyme phosphodiesterase-5 from destroying cGMP and thus helps to support blood flow to the penis."
+      },
+      "dosage_and_application_area": {
+        "de": "Grundsätzlich sollten Sie Levitra gemäß den Anweisungen Ihres Arztes einnehmen. Die empfohlene Tagesdosis beträgt 10 mg. Wenn Sie keine Nebenwirkungen bemerkt haben, kann die Dosis auf 20 mg erhöht werden. Bei Nebenwirkungen wird die Dosis auf 5 mg täglich reduziert. Nehmen Sie nicht mehr als eine Tablette Levitra pro Tag ein.",
+        "en": "Basically, you should take Levitra as directed by your doctor. The recommended dose per day is 10mg. If you have not noticed any side effects, the dose can be increased to 20mg. In case of adverse effects, the dose is reduced to 5mg daily. Do not take more than one tablet of Lavitra per day."
+      },
+      "precautions": {
+        "de": "Levitra wurde nicht an Personen mit Herz-Kreislauf-Erkrankungen untersucht, daher ist es vorzuziehen, Levitra bei Patienten zu vermeiden, die in der Vergangenheit einen Schlaganfall oder Herzinsuffizienz hatten oder innerhalb der letzten sechs Monate einen Herzinfarkt hatten. Informieren Sie vor der Einnahme von Levitra Ihren Arzt, wenn Sie Probleme mit Nieren oder Leber, Blutkrankheiten, Magengeschwüren oder eine erbliche Netzhauterkrankung wie Retinitis pigmentosa haben, allergisch auf dieses oder ein anderes Medikament reagieren, eine Deformation des Penis wie Verkrümmung, kavernöse Fibrose (Peyronie-Krankheit) oder Krankheiten haben, die zur Entwicklung von Priapismus beitragen (Sichelzellenanämie, multiples Myelom, Leukämie).",
+        "en": "Levitra has not been studied in people with cardiovascular diseases, so it is preferable to avoid taking Levitra in patients who have a stroke or heart failure, or have had a heart attack in history and especially within last six months. Before taking Levitra, tell your doctor if you have kidney or liver problems, blood disorder, stomach ulcer or an inherited retinal disorder such as retinitis pigmentosa, allergic reaction to this medicine or any other medicine, penile deformation such as angulation, cavernous fibrosis (Peyronie's disease), as well as diseases that contribute to the development of priapism (sickle cell anemia, multiple myeloma, leukemia or leukemia)."
+      },
+      "contraindications": "",
+      "possible_side_effects": {
+        "de": "Levitra wird von Patienten in der Regel gut vertragen und wenn Nebenwirkungen auftreten, sind diese in der Regel mild. Die häufigsten sind Kopfschmerzen, Hautrötungen (Flush), Schwindel, Durchfall, Übelkeit, verstopfte oder laufende Nase. Sehr seltene und ungewöhnliche Nebenwirkungen sind Lichtempfindlichkeit der Haut, Rückenschmerzen, tränende Augen, erhöhter oder niedriger Blutdruck, erhöhter Muskeltonus, Priapismus.",
+        "en": "Levitra is usually well tolerated by patients and if side effects do occur, they are usually mild. The most common are headache, flushing (skin redness), dizziness, diarrhea, nausea, stuffy or runny nose. Very rare and unusual side effects include photosensitivity of the skin, back pain, watery eyes, increased or decreased blood pressure, increased muscle tone, priapism."
+      },
+      "interactions": {
+        "de": "Der Stoffwechsel von Levitra wird durch Erythromycin, Ketoconazol (Nizoral), Itraconazol (Sporanox), Indinavir (Crixivan) und Ritonavir (Norvir) gehemmt. Levitra reduziert die Konzentration von Ritonavir und Indinavir. Bei Patienten, die mit Nitraten behandelt werden, kann Levitra Brustschmerzen durch Erhöhung der Herzfrequenz und Senkung des Blutdrucks verstärken. Levitra kann die blutdrucksenkende Wirkung von Alpha-Blockern (z.B. Terazosin oder Hytrin) verstärken. Levitra sollte niemals bei Patienten angewendet werden, die mit organischen Nitraten behandelt werden.",
+        "en": "Levitra's metabolism is inhibited by erythromycin, ketoconazole (Nizoral), itraconazole (Sporanox), indinavir (Crixivan) and ritonavir (Norvir). Levitra reduces the concentration of ritonavir and indinavir. In patients treated with nitrates, Levitra may increase chest pain by increasing heart rate and lowering blood pressure. Levitra may exaggerate the lowering effect of alpha-blockers for blood pressure (terazosin or Hytrin). Levitra should never be used in those patients treated with organic nitrates."
+      },
+      "missed_dose": "",
+      "overdose": {
+        "de": "Bei versehentlicher Überdosierung können verstärkte Nebenwirkungen auftreten. Dazu gehören Rückenschmerzen, Sehprobleme, Brust- und Beinschmerzen sowie verschwommenes Sehen.",
+        "en": "If you accidentally overdose, you are likely to experience increased side effects. These may include back pain, vision problems, chest and leg pain, and blurred vision."
+      },
+      "storage": {
+        "de": "Bei Raumtemperatur zwischen 15 und 30 Grad Celsius lagern. Außerhalb der Reichweite von Kindern und Haustieren aufbewahren! Vor Feuchtigkeit und Tageslicht schützen!",
+        "en": "Store at room temperature between 59-86 G (15 and 30 degrees Celsius). Keep the medicine out of reach of children and pets! Protect from moisture and daylight!"
+      },
+      "responsibility": {
+        "de": "Wir bieten nur allgemeine Informationen über Medikamente, die nicht alle Anweisungen, möglichen Wechselwirkungen oder Vorsichtsmaßnahmen abdecken. Die auf dieser Website bereitgestellten Informationen können nicht für die Selbstbehandlung oder Selbstdiagnose verwendet werden. Alle Anweisungen für einen bestimmten Patienten sollten mit Ihrem Gesundheitsberater oder Arzt abgestimmt werden. Wir lehnen jede Haftung für Schäden ab, die durch unsachgemäßen Gebrauch der Informationen auf dieser Website entstehen können. Wir sind nicht verantwortlich für direkte, indirekte, spezielle oder andere indirekte Schäden jeglicher Art sowie für die Folgen Ihrer möglichen Selbstbehandlung.",
+        "en": "We provide only general information about medicines which does not cover all directions, possible drug interactions or precautions. The information presented on this site cannot be used for self-treatment or self-diagnosis. All instructions for a specific patient should be agreed with your health care advisor or doctor responsible for the case. We must disclaim any liability for damages that may arise from improper use of the information on this site. We are not responsible for direct, indirect, special or other indirect damages of any kind, as well as for consequences of your possible self-treatment."
+      },
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      },
+      "additionalDescription": {
+        "de": "20 mg Vardenafil.",
+        "en": "20 mg Vardenafil."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Super Viagra Generic",
+    "imageUrl": "images/card-images/img-4.png",
+    "slider": [
+      "images/products/super-viagra-generic/main-img.png",
+      "images/products/super-viagra-generic/main-img1.png",
+      "images/products/super-viagra-generic/main-img2.png"
+    ],
+    "price": {
+      "from": 59,
+      "to": 99
+    },
+    "options": [
+      {
+        "variant": 10,
+        "markdown": "",
+        "price": 59
+      },
+      {
+        "variant": 20,
+        "markdown": "",
+        "price": 99
+      }
+    ],
+    "description": {
+      "active_ingredient": "Sildenafil and Dapoxetine.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": {
+        "de": "Die richtig abgestimmte Formel von Super Viagra kombiniert das Medikament Sildenafil Citrat, besser bekannt als Viagra, und Dapoxetin. Diese Kombination ist eine echte explosive Mischung! <p></p> Sildenafil (auch als Viagra bekannt) verbessert die Durchblutung des Penis während der sexuellen Stimulation, unterstützt und verbessert die Erektion, während Dapoxetin das Vergnügen verlängert und vorzeitige Ejakulation verhindert. <p></p> Super Viagra kann bei Männern mit verschiedenen Problemen, die zu sexuellen Funktionsstörungen führen, angezeigt sein, von Manager-Syndrom bis zu Komplikationen durch Diabetes. Anstatt zwei verschiedene Pillen zu nehmen, reicht es in diesem Fall aus, eine (Super Viagra) einzunehmen – und ein paar Stunden Vergnügen und Selbstbewusstsein sind garantiert! <p></p> Super Viagra eignet sich für die tägliche Anwendung, wirkt etwa eine Stunde nach der Einnahme und der maximale Effekt wird drei bis vier Stunden nach der Einnahme erreicht und hält bis zu acht Stunden an. Wie Viagra hat auch Super Viagra einige Kontraindikationen, hauptsächlich im Zusammenhang mit Erkrankungen des Herz-Kreislauf-Systems. <p></p> Unser Sortiment umfasst ein weiteres Mittel, das verlorene Kraft und Freude am Sex zurückgeben kann. Super Viagra ist eines der neuesten Produkte, das von verschiedenen Pharmaunternehmen angeboten wird und entwickelt wurde, um den Spaß zu verlängern.",
+        "en": "Properly coordinated formula of Super Viagra combines the drug Sildenafil Citrate, better known as Viagra, and Dapoxetine. This combination is a real explosive mixture! <p></p> Sildenafil (also known as Viagra) improves blood flow to the penis during sexual stimulation, maintaining and improving erection, and Dapoxetine prolongs pleasure, avoiding premature ejaculation. <p></p> Super Viagra can be indicated for men with a variety of problems that lead to sexual dysfunction, from the manager's syndrome to complications caused by diabetes. In this case, instead of taking two different pills, enough to take one (Viagra Super Force) - and a few hours of pleasure and confidence are guaranteed! <p></p> Super Viagra is suitable for daily use, takes effect in about an hour after ingestion and the maximum effect is achieved within three to four hours after ingestion and lasts up to eight hours. Like Viagra, Super Viagra has some contraindications, mainly related to diseases of the cardiovascular system. <p></p> The range of drugs, represented in our store, added another tool that can restore lost men of strength and joy from sex Super Viagra is one of the newest products offered by various pharmaceutical brands and created to prolong the fun."
+      },
+      "general_use": "",
+      "dosage_and_application_area": "",
+      "precautions": "",
+      "contraindications": "",
+      "possible_side_effects": "",
+      "interactions": "",
+      "missed_dose": "",
+      "overdose": "",
+      "storage": "",
+      "responsibility": "",
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      }
+    },
+    "additionalDescription": {
+      "de": "Sildenafil 100 mg",
+      "en": "Sildenafil 100 mg"
+    },
+    "additionalDescription2": {
+      "de": "Dapoxetine 60 mg",
+      "en": "Dapoxetine 60 mg"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Levitra Professional",
+    "imageUrl": "images/card-images/img-5.png",
+    "slider": [
+      "images/products/levitra-professional/main-img.png",
+      "images/products/levitra-professional/main-img1.png",
+      "images/products/levitra-professional/main-img2.png"
+    ],
+    "price": {
+      "from": 45,
+      "to": 110
+    },
+    "options": [
+      {
+        "variant": 10,
+        "markdown": "",
+        "price": 45
+      },
+      {
+        "variant": 20,
+        "markdown": "",
+        "price": 75
+      },
+      {
+        "variant": 30,
+        "markdown": "",
+        "price": 110
+      }
+    ],
+    "description": {
+      "active_ingredient": "Vardenafil.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": {
+        "de": "Levitra Professional ist ein neues Medikament, bei dem die reformulierte Formel eine höhere Effizienz bei der Behandlung von erektiler Dysfunktion bei Männern aufweist. Levitra Professional bietet qualitativ hochwertige Orgasmen, verbesserte Kontrolle der Zeit im Ejakulationsprozess und eine Zunahme des Penisumfangs. Der Wirkstoff ist Vardenafil, und dieses Medikament kann als Phosphodiesterase-Hemmer eingestuft werden, der Ihnen hilft, den Blutfluss zum Penis zu kontrollieren, was es Ihnen ermöglicht, eine Erektion zu bekommen und aufrechtzuerhalten. <p></p><strong>Gibt es Anweisungen zur Einnahme von Levitra Professional?</strong><br/> Zuerst und vor allem, befolgen Sie die Anweisungen Ihres Arztes. Nehmen Sie dieses Medikament etwa 15 bis 30 Minuten vor sexueller Aktivität oral ein. Es ist nicht notwendig, es mit Nahrung einzunehmen. Bitte verwenden Sie Levitra Professional nicht mehr als einmal täglich.<br/><strong>Was sind die wichtigsten Vorteile von Levitra Professional für mich?</strong><br/> Dieses neue Medikament wird Ihnen großen Erfolg bei der Behandlung von erektiler Dysfunktion bringen. Mit Levitra Professional werden Sie neue Vitalität, verbesserte sexuelle Stimmung, verlängerte Wirkungsdauer (8 bis 9 Stunden), extreme Empfindlichkeit des Pen Gewebes, keine lange Erholungszeit nach dem vorherigen Geschlechtsverkehr, hohe Berührungsempfindlichkeit, außergewöhnlich schnelle Absorption, verbesserte Energie für Orgasmen und deutlich erhöhten Umfang und Länge erleben.",
+        "en": "Levitra Professional is a new drug where the reformulated formula has a higher level of efficiency in treating erectile dysfunction in men. Levitra Professional offers quality orgasms, improved time control in the ejaculation process, and an increase in penis girth. Its active ingredient is Vardenafil, and this drug can be classified as a phosphodiesterase inhibitor that helps you control the blood flow to the penis, which enables you to get and maintain an erection. <p></p><strong>Are there instructions on how to take Levitra Professional?</strong><br/> First and foremost, follow your doctor's instructions. Take this medication orally approximately 15 to 30 minutes before sexual activity. You do not need to take it with food. Please do not use Levitra Professional more than once a day.<br/><strong>What are the main benefits of Levitra Professional for me?</strong><br/> This new medication will bring you great success in treating erectile dysfunction. With Levitra Professional, you will experience new vitality, improved sexual mood, prolonged duration of action (8 to 9 hours), extreme sensitivity of the penile tissue, no need to recover from previous sexual intercourse for a long time, high sensitivity to touch, exceptionally fast absorption, improved energy for orgasms, and significantly increased girth and length."
+      },
+      "general_use": "",
+      "dosage_and_application_area": "",
+      "precautions": "",
+      "contraindications": "",
+      "possible_side_effects": "",
+      "interactions": "",
+      "missed_dose": "",
+      "overdose": "",
+      "storage": "",
+      "responsibility": "",
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      },
+      "additionalDescription": {
+        "de": "20 mg Vardenafil.",
+        "en": "20 mg Vardenafil."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Super Cialis",
+    "imageUrl": "images/card-images/img-6.png",
+    "slider": [
+      "images/products/super-cialis/main-img.png",
+      "images/products/super-cialis/main-img1.png",
+      "images/products/super-cialis/main-img2.png"
+    ],
+    "price": {
+      "from": 40,
+      "to": 108
+    },
+    "options": [
+      {
+        "variant": 10,
+        "markdown": "",
+        "price": 70
+      },
+      {
+        "variant": 20,
+        "markdown": "",
+        "price": 120
+      }
+    ],
+    "description": {
+      "active_ingredient": "Tadalafil and Dapoxetine.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": {
+        "de": "TADALAFIL und DAPOXETIN helfen bei der Behandlung von Impotenz und vorzeitiger Ejakulation. Antidepressiva der SNRI-Klasse (Selektive Serotonin- und Noradrenalin-Wiederaufnahmehemmer) einschließlich Fluoxetin werden seit langem außerhalb der Zulassung zur Behandlung von vorzeitiger Ejakulation eingesetzt. Ein verzögerter Orgasmus ist eine bekannte Wirkung dieses Medikaments. Tadalafil verbessert den Blutfluss zum Penis während sexueller Stimulation, hält die Erektion aufrecht und verbessert sie, während Dapoxetin das Vergnügen verlängert und vorzeitige Erektionen verhindert.",
+        "en": "TADALAFIL and DAPOXETINE help in the treatment of impotence and premature ejaculation. Antidepressants of the SNRI (Selective Serotonin and Norepinephrine Reuptake Inhibitor) class including fluoxetine have long been used off-label to treat premature ejaculation. Delayed orgasm is a known effect of this medication. Tadalafil improves blood flow to the penis during sexual stimulation, maintaining and improving erection, and dapoxetine prolongs pleasure, preventing premature erection."
+      },
+      "general_use": "",
+      "dosage_and_application_area": {
+        "de": "Nehmen Sie dieses Medikament mit einem Glas Wasser ein. Cialis Super Force sollte normalerweise 1-2 Stunden vor dem Geschlechtsverkehr eingenommen werden. Sie können das Medikament mit oder ohne Nahrung einnehmen. Nehmen Sie die Dosis nicht mehr als einmal täglich ein. Nehmen Sie das Medikament nicht mehr als verschrieben ein. Wenn Sie dieses Medikament über einen längeren Zeitraum regelmäßig eingenommen haben, hören Sie nicht plötzlich auf.",
+        "en": "Take this medication with a glass of water. Cialis Super Force should normally be taken 1-2 hours before sexual intercourse. You can take the medication with or without food. You should not take the dose more than once a day. You should not take the medication more than prescribed. If you have been taking this medication regularly for a long time, do not stop suddenly."
+      },
+      "precautions": {
+        "de": "Informieren Sie Ihren Arzt, wenn Sie an einer dieser Erkrankungen leiden: <p></p> bipolare Störung oder Manie, Augen- oder Sehstörungen einschließlich einer seltenen erblichen Augenkrankheit namens Retinitis pigmentosa, Diabetes, häufige Sodbrennen, Herzkrankheiten, Angina, hohen oder niedrigen Blutdruck, einen früheren Herzinfarkt, Nierenerkrankungen, Lebererkrankungen, Psychosen, Krampfanfälle, Schlaganfall. <p></p> Wenn Sie eine ungewöhnliche Reaktion auf Tadalafil oder Dapoxetin bemerken, informieren Sie bitte Ihren Arzt.",
+        "en": "Tell your doctor if you suffer from any of these conditions: <p></p> bipolar disorder or mania, eye or vision problems including a rare inherited eye disease called retinitis pigmentosa, diabetes, frequent heartburn, heart disease, angina, high or low blood pressure, a previous heart attack, kidney disease, liver disease, psychosis, seizures, stroke. <p></p> If you experience any unusual reaction to Tadalafil or Dapoxetine, tell your doctor."
+      },
+      "contraindications": {
+        "de": "Nehmen Sie das Medikament nicht zusammen mit den folgenden Medikamenten: Cisaprid, Methscopolamin-Nitrat <p></p> Nitrate, Isosorbidmononitrate, Nitroglycerin, Nitroprussid, andere Tadalafil-Produkte. <p></p> Wenn Sie Veränderungen Ihres Sehvermögens bemerken, während Sie dieses Medikament einnehmen, wenden Sie sich umgehend an Ihren Arzt. <p></p> Wenden Sie sich sofort an Ihren Arzt, wenn die Erektion länger als 4 Stunden anhält oder schmerzhaft wird. Dies könnte auf ein ernstes Problem hinweisen und muss sofort behandelt werden. <p></p> Das Medikament kann Schwindel und Schläfrigkeit verursachen. Sie sollten nicht fahren, gefährliche Maschinen bedienen oder andere geistig anspruchsvolle Arbeiten verrichten. <p></p> Alkohol kann die Wirksamkeit des Medikaments beeinflussen. Vermeiden Sie alkoholische Getränke. Behandeln Sie Ihren Husten, Ihre Erkältung, Ihre Grippe oder Ihre Allergien nicht allein, ohne vorher medizinischen Rat einzuholen. <p></p> Sie können trockenen Mund erleben. Das Kauen von zuckerfreiem Kaugummi oder das Lutschen von Hartbonbons sowie das Trinken von viel Wasser kann helfen.",
+        "en": "Do not take the medicine with the following medications: Cisapride, Methscopolamine Nitrate <p></p> Nitrates, isosorbide mononitrates, nitroglycerin, nitroprusside, other Tadalafil products. <p></p> If you notice any changes in your vision while taking this medication, contact your doctor promptly. <p></p> Contact your doctor immediately if the erection lasts longer than 4 hours or becomes painful. This could indicate a serious problem and needs to be treated immediately. <p></p> The medication may cause dizziness and drowsiness. You should not drive, operate dangerous machinery or perform any other mentally demanding work. <p></p> Alcohol can change the effectiveness of the medication. Avoid alcoholic beverages. Do not treat your cough, cold, flu, or allergies alone without first getting medical advice. <p></p> You may experience dry mouth. Chewing sugar-free gum or sucking on a hard candy and drinking plenty of water may help."
+      },
+      "possible_side_effects": {
+        "de": "Wenn Sie die folgenden Nebenwirkungen bemerken, sollten Sie sofort Ihren Arzt kontaktieren: <p></p> Allergische Reaktionen wie Ausschlag, Juckreiz und Nesselsucht, Schwellungen im Gesicht, an Lippen oder Zunge, Atembeschwerden, Verschlechterung des Hörens, Sehstörungen, verschwommenes Sehen, Schwierigkeiten beim Unterscheiden von Grün und Blau, Brustschmerzen, unregelmäßiger Herzschlag oder Blutdruckveränderungen, Muskelschmerzen, verlängerte oder schmerzhafte Erektion (länger als 4 Stunden), Ausschlag, Juckreiz, Krampfanfälle. <p></p> Nebenwirkungen, die normalerweise keine ärztliche Hilfe erfordern: <p></p> Rötung, Rückenschmerzen, Kopfschmerzen, Verdauungsstörungen, Schwindel, Durchfall, trockener Mund, Übelkeit, Nasenverstopfung oder laufende Nase. <p></p> Diese Liste beschreibt nicht alle möglichen Nebenwirkungen.",
+        "en": "If you experience the following side effects, you should contact your doctor immediately: <p></p> Allergic reactions such as rash, itching and hives, swelling of the face, lips or tongue, difficulty breathing, worsening of hearing, visual disturbances, blurred vision, difficulty distinguishing green from blue, chest pain, irregular heartbeat or changes in blood pressure, muscle pain, prolonged or painful erection (lasting more than 4 hours), rash, itching, seizures. <p></p> Side effects that normally do not require medical attention: <p></p> Redness, back pain, headache, indigestion, dizziness, diarrhea, dry mouth, nausea, nasal congestion or runny nose. <p></p> This list does not describe all possible side effects."
+      },
+      "interactions": {
+        "de": "",
+        "en": ""
+      },
+      "missed_dose": {
+        "de": "",
+        "en": ""
+      },
+      "overdose": {
+        "de": "Wenn Sie einen Überdosis vermuten, wenden Sie sich umgehend an ein Giftinformationszentrum oder einen Notarzt.",
+        "en": "If you suspect an overdose, contact a poison control center or emergency doctor immediately."
+      },
+      "storage": {
+        "de": "Halten Sie es außerhalb der Reichweite von Kindern. <p></p> Lagern Sie es bei Raumtemperatur zwischen 15 °C und 30 °C (59 °F und 86 °F), fern von Wärme und direkter Sonneneinstrahlung. Nicht einfrieren. Entsorgen Sie kein unbenutztes oder abgelaufenes Medikament.",
+        "en": "Keep out of reach of children. <p></p> Store at room temperature between 15C – 30C (59F and 86F), away from heat and direct light. Do not freeze. Do not throw away any unused or expired medication."
+      },
+      "responsibility": {
+        "de": "",
+        "en": ""
+      },
+      "packaging": {
+        "de": "Die Verpackung und Tabletten können von dem auf der Seite abgebildeten Bild abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      },
+      "additionalDescription": {
+        "de": "Tadalafil 20 mg",
+        "en": "Tadalafil 20 mg"
+      },
+      "additionalDescription2": {
+        "de": "Dapoxetin 60 mg",
+        "en": "Dapoxetine 60 mg"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Kamagra",
+    "imageUrl": "images/card-images/img-7.png",
+    "slider": [
+      "images/products/kamagra/main-img.png",
+      "images/products/kamagra/main-img1.png",
+      "images/products/kamagra/main-img2.png"
+    ],
+    "price": {
+      "from": 25,
+      "to": 41
+    },
+    "options": [
+      {
+        "variant": 8,
+        "markdown": 36,
+        "price": 25
+      },
+      {
+        "variant": 16,
+        "markdown": 62,
+        "price": 41
+      }
+    ],
+    "description": {
+      "active_ingredient": "Sildenafil citrate.",
+      "country_of_manufacture": {
+        "de": "Indien.",
+        "en": "India."
+      },
+      "product_description": {
+        "de": "",
+        "en": ""
+      },
+      "general_use": {
+        "de": "Kamagra ist ein Medikament zur Behandlung der erektilen Dysfunktion bei Männern. Es ist eine generische Version von Viagra oder Sildenafilcitrat, das zur Behandlung von sexuellen Funktionsstörungen bei Männern eingesetzt wird. Kamagra erhöht die Menge des Blutes, das in den Penis fließt.",
+        "en": "Kamagra is a medication used to treat erectile dysfunction in men. This is an analogue version of Viagra or Sildenafil Citrate, which is used to treat sexual dysfunction in men. Kamagra increases the amount of blood flowing to the penis."
+      },
+      "dosage_and_application_area": {
+        "de": "Die 100-mg-Dosis von Kamagra zeigt ihre Wirkung nach 45 Minuten und hält 4-6 Stunden an.",
+        "en": "Kamagra 100mg dose shows its effect in 45 minutes and lasts for 4-6 hours."
+      },
+      "precautions": {
+        "de": "Bevor Sie Kamagra einnehmen, informieren Sie Ihren Arzt, wenn Sie an Allergien, Anämie, Augenerkrankungen oder Krebs leiden, hohen oder niedrigen Blutdruck haben, an unregelmäßigem Herzrhythmus, Herzinsuffizienz, instabiler Angina pectoris, bestimmten Augenerkrankungen oder Deformitäten des Penis leiden oder solche Zustände in der Vergangenheit hatten, oder Protease-Inhibitoren zur Behandlung von HIV einnehmen. Stehen Sie nicht schnell aus einer liegenden oder sitzenden Position auf. Vermeiden Sie Alkohol, da dies möglicherweise Nebenwirkungen verschlimmern kann. Kamagra sollte nicht eingenommen werden, wenn Sie bereits ein anderes ED-Medikament eingenommen haben. Informieren Sie Ihren Arzt vor der Einnahme von Kamagra, wenn Sie Alprostadil (Caverject, Muse, Edex) oder Yohimbin (Yocon, Yodoxin, andere) verwenden.",
+        "en": "Before taking Kamagra, notify your doctor if you suffer from allergies, anemia, eye disease, or cancer, have high or low blood pressure, irregular heart rhythm, heart failure, unstable chest pain, certain eye conditions, deformities of the penis or have had such conditions in history, or are taking protease inhibitors for the treatment of HIV. Do not get up quickly from a lying or sitting position. Avoid alcohol as it may possibly worsen side effects. Kamagra should not be taken if you have already taken another ED medication. Warn your doctor before taking Kamagra if you are using alprostadil (Caverject, Muse, Edex) or yohimbine (Yocon, Yodoxin, others)."
+      },
+      "contraindications": {
+        "de": "Kamagra ist bei Patienten kontraindiziert, die allergisch auf das Medikament reagieren oder mit Nitraten (z.B. Nitroglycerin) behandelt werden. Diese Kombination kann einen sehr niedrigen Blutdruck verursachen, der zu einem Schlaganfall, Herzinfarkt oder Tod führen kann. Nehmen Sie dieses Medikament nicht ein, wenn Sie unter 18 Jahre alt sind.",
+        "en": "Kamagra is contraindicated in patients with allergy to the drug or in those who are being treated with nitrates (e.g. nitroglycerin). This combination can cause very low blood pressure that can lead to a stroke, heart attack or death. Do not take this medicine if you are under 18 years old."
+      },
+      "possible_side_effects": {
+        "de": "Einige Patienten können Kopfschmerzen, Durchfall, Schwindel, Magenbeschwerden, Erbrechen, verstopfte Nase erleben. Solche Nebenwirkungen wie Gesichtsrötung können weniger stark ausgeprägt sein als bei der Einnahme von Viagra. Kamagra kann eine seltenere, aber schwerwiegendere Erkrankung namens Priapismus oder verlängerte Erektion verursachen. Kontaktieren Sie sofort Ihren Arzt, wenn Ihre Erektion länger als vier Stunden anhält.",
+        "en": "Some patients may experience headache, diarrhea, dizziness, stomach upset, vomiting, nasal congestion. Such adverse effects as facial flushing may be less expressed than in those taking Viagra. Kamagra may cause a rarer but more serious condition known as priapism, or prolonged erection. Contact your doctor immediately if your erection lasts longer than four hours."
+      },
+      "interactions": {
+        "de": "Kamagra sollte nicht Patienten verschrieben werden, die Medikamente einnehmen, die organische Nitrate enthalten. Der Blutspiegel von Kamagra wird durch Erythromycin, Ketoconazol, Itraconazol und Saquinavir erhöht. Diese Medikamente beeinflussen sich gegenseitig: Bosentan (Tracleer); Cimetidin (Tagamet, Tagamet HB); ein Antibiotikum wie Erythromycin (E-Mycin, Eryc, Ery-Tab) oder Clarithromycin (Biaxin); Doxazosin (Cardura), Prazosin (Minipress), Terazosin (Hytrin); HIV-Medikamente wie Indinavir (Crixivan), Amprenavir (Agenerase), Darunavir (Prezista), Efavirenz (Sustiva), Tipranavir (Aptivus), Nevirapin (Viramune), Saquinavir (Invirase, Fortovase), Lopinavir/Ritonavir (Kaletra), Fosamprenavir (Lexiva), Ritonavir (Norvir), Atazanavir (Reyataz) oder Nelfinavir (Viracept); ein Antimykotikum wie Itraconazol (Sporanox) oder Ketoconazol (Nizoral); Carbamazepin (Tegretol), Phenobarbital (Luminal) oder Phenytoin (Dilantin) oder Rifampicin (Rifadin, Rimactane) oder Rifabutin (Mycobutin).",
+        "en": "Kamagra should not be prescribed to patients taking medicines containing organic nitrates. Kamagra blood levels are increased by erythromycin, ketoconazole, itraconazole and saquinavir. These medicines are known to affect each other: bosentan (Tracleer); cimetidine (Tagamet, Tagamet HB); an antibiotic such as erythromycin (E-Mycin, Eryc, Ery-Tab) or clarithromycin (Biaxin); doxazosin (Cardura), prazosin (Minipress), terazosin (Hytrin); HIV medications such as indinavir (Crixivan), amprenavir (Agenerase) darunavir (Prezista), efavirenz (Sustiva) tipranavir (Aptivus), nevirapine (Viramune), saquinavir (Invirase, Fortovase) lopinavir/ritonavir (Kaletra), fosamprenavir (Lexiva), ritonavir (Norvir), atazanavir (Reyataz) or nelfinavir (Viracept); an antifungal medication such as itraconazole (Sporanox) or ketoconazole (Nizoral); carbamazepine (Tegretol), phenobarbital (Luminal) or phenytoin (Dilantin) or rifampicin (Rifadin, Rimactane) or rifabutin (Mycobutin)."
+      },
+      "missed_dose": {
+        "de": "Kamagra wird bei Bedarf eingenommen, daher ist eine vergessene Dosis nicht möglich.",
+        "en": "Kamagra is taken when necessary, so a missed dose is impossible."
+      },
+      "overdose": {
+        "de": "Nach einer Überdosierung von Kamagra können folgende Symptome auftreten: Ohnmacht, Brustschmerzen, Übelkeit, unregelmäßiger Herzschlag, Schwindel. Wenden Sie sich sofort an einen Arzt für sofortige medizinische Hilfe.",
+        "en": "After overdose of Kamagra the following symptoms may occur: fainting, chest pain, nausea, irregular heartbeat, dizziness. Contact the doctor immediately for immediate medical help."
+      },
+      "storage": {
+        "de": "Bei Raumtemperatur lagern, fern von Feuchtigkeit und Sonnenlicht. Außerhalb der Reichweite von Kindern und Tieren aufbewahren.",
+        "en": "Store at room temperature, away from moisture and daylight. Keep out of reach of children and animals."
+      },
+      "responsibility": {
+        "de": "Wir stellen nur allgemeine Informationen über Medikamente zur Verfügung, die nicht alle Anweisungen, möglichen Wechselwirkungen oder Vorsichtsmaßnahmen abdecken. Die auf dieser Website präsentierten Informationen können nicht zur Selbstbehandlung oder Selbstdiagnose verwendet werden. Alle Anweisungen für einen bestimmten Patienten sollten mit Ihrem Gesundheitsberater oder behandelnden Arzt abgestimmt werden. Wir lehnen jegliche Haftung für Schäden ab, die durch unsachgemäße Nutzung der auf dieser Website bereitgestellten Informationen entstehen können. Wir sind nicht verantwortlich für direkte, indirekte, spezielle oder andere indirekte Schäden jeglicher Art sowie für Folgen Ihrer möglichen Selbstbehandlung.",
+        "en": "We provide only general information about medicines which does not cover all directions, possible drug interactions or precautions. The information presented on this site cannot be used for self-treatment or self-diagnosis. All instructions for a specific patient should be agreed with your health care advisor or doctor responsible for the case. We must disclaim any liability for damages that may arise from improper use of the information on this site. We are not responsible for direct, indirect, special or other indirect damages of any kind, as well as for consequences of your possible self-treatment."
+      },
+      "packaging": {
+        "de": "Die Verpackung und die Pillen können vom Bild auf der Seite abweichen.",
+        "en": "The packaging and pills may differ from the picture on the page."
+      },
+      "additionalDescription": {
+        "de": "100 mg Sildenafil Citrat",
+        "en": "100 mg Sildenafil Citrate"
+      }
+    }
+  }
+]

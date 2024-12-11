@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.75fd2e6e.css",
-    "main.js": "/static/js/main.411fe8fd.js",
+    "main.css": "/static/css/main.d2df254a.css",
+    "main.js": "/static/js/main.a6d77a56.js",
     "static/js/453.821f6749.chunk.js": "/static/js/453.821f6749.chunk.js",
     "static/media/hero-bg2.png": "/static/media/hero-bg2.eaaf77a9069aab49bc15.png",
     "static/media/hero-bg.png": "/static/media/hero-bg.8eff74b98b4eae9316d4.png",
+    "static/media/flags@2x.webp": "/static/media/flags@2x.11151219817c4593cbfa.webp",
+    "static/media/flags.webp": "/static/media/flags.ddfa4155922198c5305f.webp",
     "static/media/main-logo-white.svg": "/static/media/main-logo-white.aeb4f571bb33eae7598d.svg",
     "static/media/main-logo.svg": "/static/media/main-logo.ee9fb5091966d9c26bcb.svg",
     "static/media/bullet-bg-mirror.svg": "/static/media/bullet-bg-mirror.66bc6eed6561172b106f.svg",
@@ -14,7 +16,9 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/instagram-hover.svg": "/static/media/instagram-hover.14a4f4cf30ad3df42284.svg",
     "static/media/instagram.svg": "/static/media/instagram.36757d8164d01143c2c6.svg",
+    "static/media/globe@2x.webp": "/static/media/globe@2x.5dc7e51d6b5d42fc2be4.webp",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
     "static/media/cart.svg": "/static/media/cart.b2dbadd9b9d1d78f3d82.svg",
     "static/media/search-btn-white.svg": "/static/media/search-btn-white.66125198677d7e264296.svg",
     "static/media/twitter-hover.svg": "/static/media/twitter-hover.f61d4d09fdde10fdcd7a.svg",
@@ -24,19 +28,19 @@
     "static/media/facebook.svg": "/static/media/facebook.a97235ffce14b6110bbb.svg",
     "static/media/facebook-hover.svg": "/static/media/facebook-hover.5266ba0b5e3b8f67561f.svg",
     "static/media/twitter-white-hover.svg": "/static/media/twitter-white-hover.57378052de0285f790d6.svg",
-    "index.html": "/index.html",
     "static/media/search-btn.svg": "/static/media/search-btn.bcf2b84679cdc09db899.svg",
+    "static/media/globe.webp": "/static/media/globe.7fb216c936a98b90918e.webp",
     "static/media/search-btn-hover.svg": "/static/media/search-btn-hover.d54b7bc89218193ca454.svg",
     "static/media/facebook-white-hover.svg": "/static/media/facebook-white-hover.e2dedcbfc50fe6fc7a81.svg",
     "static/media/arrow-hover.svg": "/static/media/arrow-hover.9f275f681fe59f7a9680.svg",
     "static/media/open-question-btn.svg": "/static/media/open-question-btn.901085aae424b4a70c47.svg",
     "static/media/colse-question-btn.svg": "/static/media/colse-question-btn.2feea49f0419810cd125.svg",
-    "main.75fd2e6e.css.map": "/static/css/main.75fd2e6e.css.map",
-    "main.411fe8fd.js.map": "/static/js/main.411fe8fd.js.map",
+    "main.d2df254a.css.map": "/static/css/main.d2df254a.css.map",
+    "main.a6d77a56.js.map": "/static/js/main.a6d77a56.js.map",
     "453.821f6749.chunk.js.map": "/static/js/453.821f6749.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75fd2e6e.css",
-    "static/js/main.411fe8fd.js"
+    "static/css/main.d2df254a.css",
+    "static/js/main.a6d77a56.js"
   ]
 }
